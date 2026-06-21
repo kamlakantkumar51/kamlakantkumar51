@@ -6,7 +6,7 @@
 
 <a href="https://twitter.com/kamlakant__"><img src="https://img.shields.io/badge/Twitter-6366F1?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://linkedin.com/in/kamlakant-kumar-300379209"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="kumarkamlakant46@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
