@@ -18,11 +18,15 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Kantify** — an AI-powered personal assistant for daily task management
-- 🌱 Deepening my grip on **Data Structures & Algorithms** — pattern by pattern
-- 💼 Focused on full-stack development with the **MERN stack** and **Java**
-- 🤝 Open to collaborating on developer tools, AI assistants, and scalable backend systems
-- 📫 Reach me on LinkedIn or Twitter — links above
+## 👨‍💻 About Me
+
+- 🚀 Currently building **Kantify** — an AI-powered personal assistant for daily task management and productivity
+- ✈️ Completed the **Skyscanner Front-End Software Engineering Job Simulation** on Forage, gaining practical experience in React development, component-based architecture, and industry-standard software engineering practices
+- 🌱 Deepening my grip on **Data Structures & Algorithms** — mastering problem-solving patterns and interview-focused techniques
+- 💼 Focused on full-stack development with the **MERN Stack** and **Java**
+- 🤖 Passionate about building AI-powered applications, developer tools, and scalable software systems
+- 🤝 Open to collaborating on open-source projects, AI assistants, and backend-focused applications
+- 📫 Reach me on **LinkedIn** and **GitHub**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6366F1&height=3" width="100%" />
 
