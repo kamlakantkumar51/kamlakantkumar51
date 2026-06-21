@@ -2,6 +2,10 @@
 
 # Hi, I'm Kamlakant Kumar 👋
 
+<p align="center">
+  <img src="assets/assets/WhatsApp Image 2026-05-08 at 1.10.26 PM.jpg" width="180" alt="Kamlakant Kumar">
+</p>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+MERN+Stack;Building+scalable+solutions%2C+one+commit+at+a+time." alt="Typing SVG" />
 
 <a href="https://twitter.com/kamlakant__"><img src="https://img.shields.io/badge/Twitter-6366F1?style=for-the-badge&logo=x&logoColor=white" /></a>
