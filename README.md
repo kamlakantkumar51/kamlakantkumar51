@@ -61,13 +61,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&icon_color=fabd2f&text_color=ebdbb2&rank_icon=percentile)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&icon_color=fabd2f&text_color=ebdbb2&rank_icon=percentile)](https://github.com/kamlakantkumar51)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&text_color=ebdbb2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&text_color=ebdbb2&langs_count=10)](https://github.com/kamlakantkumar51)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamlakantkumar51&theme=gruvbox&hide_border=false&background=282828&ring=fe8019&fire=fabd2f&currStreakLabel=fabd2f)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamlakantkumar51&theme=gruvbox&hide_border=false&background=282828&ring=fe8019&fire=fabd2f&currStreakLabel=fabd2f)](https://github.com/kamlakantkumar51)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlakantkumar51&theme=gruvbox&hide_border=false&bg_color=282828&color=fe8019&line=fabd2f&point=ebdbb2)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlakantkumar51&theme=gruvbox&hide_border=false&bg_color=282828&color=fe8019&line=fabd2f&point=ebdbb2)](https://github.com/kamlakantkumar51)
 
 </div>
 
