@@ -53,13 +53,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streaks & Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&icon_color=fabd2f&text_color=ebdbb2&rank_icon=percentile)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&text_color=ebdbb2&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamlakantkumar51&theme=gruvbox&hide_border=false&background=282828&ring=fe8019&fire=fabd2f&currStreakLabel=fabd2f)
 
