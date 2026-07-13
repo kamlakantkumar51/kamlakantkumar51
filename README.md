@@ -3,7 +3,7 @@
 # Hi, I'm Kamlakant Kumar 👋
 
 <p align="center">
-  <img src="assets/WhatsApp Image 2026-05-08 at 1.10.26 PM.jpg" width="180" alt="Kamlakant Kumar">
+  <img src="assets/profile.jpg" width="180" alt="Kamlakant Kumar">
 </p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+MERN+Stack;Building+scalable+solutions%2C+one+commit+at+a+time." alt="Typing SVG" />
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&icon_color=FBBF24&text_color=EBDBB2&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&icon_color=FBBF24&text_color=EBDBB2" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2" width="38%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamlakantkumar51&theme=gruvbox&hide_border=true&background=1D2021&ring=F97316&fire=FBBF24&currStreakLabel=FBBF24" width="68%" />
