@@ -2,13 +2,9 @@
 
 # Hi, I'm Kamlakant Kumar 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kamlakantkumar51/kamlakantkumar51/main/assets/WhatsApp%20Image%202026-05-08%20at%201.10.26%20PM.jpg" width="180" alt="Kamlakant Kumar">
-</p>
+<img src="https://raw.githubusercontent.com/kamlakantkumar51/kamlakantkumar51/main/assets/WhatsApp%20Image%202026-05-08%20at%201.10.26%20PM.jpg" width="180" alt="Kamlakant Kumar">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+MERN+Stack;Building+Intelligent+Solutions" width="100%" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+MERN+Stack;Building+Intelligent+Solutions" width="100%">
 
 <a href="https://twitter.com/kamlakant__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://linkedin.com/in/kamlakant-kumar-300379209" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -57,17 +53,17 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&icon_color=fabd2f&text_color=ebdbb2&rank_icon=percentile)](https://github.com/kamlakantkumar51)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&icon_color=fabd2f&text_color=ebdbb2&rank_icon=percentile)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&text_color=ebdbb2&langs_count=10)](https://github.com/kamlakantkumar51)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&text_color=ebdbb2&langs_count=10)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamlakantkumar51&theme=gruvbox&hide_border=false&background=282828&ring=fe8019&fire=fabd2f&currStreakLabel=fabd2f)](https://github.com/kamlakantkumar51)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamlakantkumar51&theme=gruvbox&hide_border=false&background=282828&ring=fe8019&fire=fabd2f&currStreakLabel=fabd2f)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlakantkumar51&theme=gruvbox&hide_border=false&bg_color=282828&color=fe8019&line=fabd2f&point=ebdbb2)](https://github.com/kamlakantkumar51)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlakantkumar51&theme=gruvbox&hide_border=false&bg_color=282828&color=fe8019&line=fabd2f&point=ebdbb2)
 
 </div>
 
@@ -103,9 +99,7 @@
 
 <div align="center">
 
-### 🌐 Connect With Me
-
-<a href="https://github.com/kamlakantkumar51">
+<a href="https://github.com/kamlakantkumar51" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
