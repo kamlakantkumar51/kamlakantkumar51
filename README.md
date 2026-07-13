@@ -3,14 +3,14 @@
 # Hi, I'm Kamlakant Kumar 👋
 
 <p align="center">
-  <img src="assets/WhatsApp Image 2026-05-08 at 1.10.26 PM.jpg" width="180" alt="Kamlakant Kumar">
+  <img src="assets/WhatsApp%20Image%202026-05-08%20at%201.10.26%20PM.jpg" width="180" alt="Kamlakant Kumar">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+MERN+Stack;Building+scalable+solutions%2C+one+commit+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+MERN+Stack;Building+Intelligent+Solutions" />
 
 <a href="https://twitter.com/kamlakant__"><img src="https://img.shields.io/badge/Twitter-F97316?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://linkedin.com/in/kamlakant-kumar-300379209"><img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="kumarkamlakant46@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kumarkamlakant46@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 Currently building **Kantify** — an AI-powered personal assistant for daily task management and productivity
-- ✈️ Completed the **Skyscanner Front-End Software Engineering Job Simulation** on Forage, gaining practical experience in React development, component-based architecture, and industry-standard software engineering practices
+- ✈️ Completed the **Skyscanner Front-End Software Engineering Job Simulation** on Forage, gaining practical experience in React development, component-based architecture, and industry-standard practices
 - 🌱 Deepening my grip on **Data Structures & Algorithms** — mastering problem-solving patterns and interview-focused techniques
 - 💼 Focused on full-stack development with the **MERN Stack** and **Java**
 - 🤖 Passionate about building AI-powered applications, developer tools, and scalable software systems
@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&icon_color=FBBF24&text_color=EBDBB2" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kamlakantkumar51&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&icon_color=FBBF24&text_color=EBDBB2" width="68%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamlakantkumar51&layout=compact&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2" width="68%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamlakantkumar51&theme=gruvbox&hide_border=true&background=1D2021&ring=F97316&fire=FBBF24&currStreakLabel=FBBF24" width="68%" />
 
@@ -96,10 +96,10 @@
 
 <div align="center">
 
-<a href="https://github.com/kamlakantkumar51/DSA-PATTERN-WISE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlakantkumar51&repo=DSA-PATTERN-WISE&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2&icon_color=FBBF24" /></a>
-<a href="https://github.com/kamlakantkumar51/kantify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlakantkumar51&repo=kantify&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2&icon_color=FBBF24" /></a>
-<a href="https://github.com/Dhruv4848l/Knoq-AI-Parul-University-HelpDesk-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv4848l&repo=Knoq-AI-Parul-University-HelpDesk-Chat-Bot&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2&icon_color=FBBF24" /></a>
-<a href="https://github.com/kamlakantkumar51/Express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlakantkumar51&repo=Express&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2&icon_color=FBBF24" /></a>
+<a href="https://github.com/kamlakantkumar51/DSA-PATTERN-WISE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlakantkumar51&repo=DSA-PATTERN-WISE&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2" /></a>
+<a href="https://github.com/kamlakantkumar51/kantify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlakantkumar51&repo=kantify&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2" /></a>
+<a href="https://github.com/Dhruv4848l/Knoq-AI-Parul-University-HelpDesk-Chat-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv4848l&repo=Knoq-AI-Parul-University-HelpDesk-Chat-Bot&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2" /></a>
+<a href="https://github.com/kamlakantkumar51/Express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kamlakantkumar51&repo=Express&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=F97316&text_color=EBDBB2" /></a>
 
 </div>
 
